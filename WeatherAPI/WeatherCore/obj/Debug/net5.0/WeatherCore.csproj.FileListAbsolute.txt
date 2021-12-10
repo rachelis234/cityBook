@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\bin\Debug\net5.0\WeatherCore.deps.json
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\bin\Debug\net5.0\WeatherCore.dll
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\bin\Debug\net5.0\ref\WeatherCore.dll
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\bin\Debug\net5.0\WeatherCore.pdb
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.AssemblyInfo.cs
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.dll
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\ref\WeatherCore.dll
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.pdb
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\bin\Debug\net5.0\WeatherCore.runtimeconfig.json
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\bin\Debug\net5.0\WeatherCore.runtimeconfig.dev.json
+C:\Users\USER\Documents\Racheli\cityBook\WeatherAPI\WeatherCore\obj\Debug\net5.0\WeatherCore.genruntimeconfig.cache
